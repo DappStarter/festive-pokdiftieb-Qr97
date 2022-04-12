@@ -1,0 +1,11 @@
+{
+    "name": "st_t1",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible"
+    }
+}
